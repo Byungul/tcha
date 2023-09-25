@@ -269,7 +269,7 @@
 |React-Router|	6.4	||
 |Node.js|	18.17.0	LTS||
 |TypeScript|	4.9.5	||
-|Redu|	4.2.1	||
+|Redux|	4.2.1	||
 |Axios|	1.4.0	||
 |openvidu-browser|	2.28.0	||
 |React-Redux|	8.1.1	||
